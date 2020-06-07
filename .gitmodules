@@ -2,3 +2,19 @@
 	path = P1-Build-My-World
 	url = https://github.com/huuanhhuynguyen/RoboND-Build-My-World.git
 	branch = master
+[submodule "P2-Go-Chase-It"]
+	path = P2-Go-Chase-It
+	url = https://github.com/huuanhhuynguyen/RoboND-Go-Chase-It.git
+	branch = master
+[submodule "P3-Where-Am-I"]
+	path = P3-Where-Am-I
+	url = https://github.com/huuanhhuynguyen/RoboND-Where-Am-I
+	branch = master
+[submodule "P4-Map-My-World"]
+	path = P4-Map-My-World
+	url = https://github.com/huuanhhuynguyen/RoboND-Map-My-World.git
+	branch = master
+[submodule "P5-Home-Service-Robot"]
+	path = P5-Home-Service-Robot
+	url = https://github.com/huuanhhuynguyen/RoboND-Home-Service-Robot.git
+	branch = master
