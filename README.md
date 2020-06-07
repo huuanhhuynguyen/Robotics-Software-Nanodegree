@@ -68,7 +68,6 @@ Clone the project and init the submodules.
 ```
 $ git clone https://github.com/huuanhhuynguyen/Robotics-Software-Nanodegree.git
 $ cd Robotics-Software-Nanodegree
-$ git submodule init
-$ git submodule update
+$ git submodule update --init
 ```
 Every submodule has its own build instruction described in its README.
