@@ -11,7 +11,7 @@ This repository consists of projects required for the graduation of the
 - [x] Project 4 - Map My World
 - [x] Project 5 - Home Service Robot
 
-View [Certificate](https://graduation.udacity.com/nd209).
+View [Certificate](https://graduation.udacity.com/confirm/AFJWMZSG).
 
 ## Results
 
